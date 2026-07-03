@@ -1,0 +1,87 @@
+*{
+    background-color: white;
+}
+
+.conteiner{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    border-color: yellow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.album{
+    height: 100px;
+    transition: 300ms;
+}
+.album:hover{
+    height: 120px;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+}
+a,li, ul{
+    color: white;
+    background-color: black;
+}
+.a{
+    margin: 50px;
+    transition: 100ms;
+    font-family: Impact, sans-serif;
+}
+.a:hover{
+    color: yellow;
+    font-size: 20px;
+}
+
+main{
+    padding-top: 240px;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.dias{
+    width: 220px;
+    min-height: 220px;
+    background: white;
+    border: 2px solid gold;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    float: left;
+    transition: .3s;
+    box-shadow: 0 5px 15px rgba(0,0,0,.15);
+}
+
+.dias:hover{
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0,0,0,.25);
+}
+.h1{
+    background: gold;
+    color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+h4{
+    margin-top: 20px;
+    text-align: center;
+    background: transparent;
+    color: #333;
+    line-height: 1.5;
+}
+
