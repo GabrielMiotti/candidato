@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="agenda.css">
+</head>
+<body>
+    <div class="conteiner">
+        <a href="albuns.html"><img
+                src="https://i.pinimg.com/1200x/52/6c/4a/526c4a5ccf8bf4ccf34246048f60ccc4.jpg" alt="" class="album"></a>
+        <a href="albuns.html"><img
+                src="https://i.pinimg.com/736x/53/43/8f/53438f7645dbbb63c8f93ae83df96036.jpg" alt="" class="album"></a>
+        <a href="albuns.html"><img
+                src="https://i.pinimg.com/1200x/22/8f/eb/228feb1996ea8d94cbf0abb69360121e.jpg" alt="" class="album"></a>
+        <a href="albuns.html"><img
+                src="https://i.pinimg.com/1200x/1f/fc/af/1ffcafda44dd515a861655d34c493ba7.jpg" alt="" class="album"></a>
+        <a href="albuns.html"><img
+                src="https://i.pinimg.com/1200x/98/72/bc/9872bcc30e33821949d9babfd2453af9.jpg" alt="" class="album"></a>
+        <ul class="lu">
+            <a href="Campanha.html" class="a">Home</a>
+            <a href="historia.html" class="a">Historia</a>
+            <a href="agenda.html" class="a">Agenda</a>
+            <a href="jingle.html" class="a">Jingle</a>
+            <a href="pgcontato.html" class="a">Página de contato</a>
+            <a href=""><img
+                    src="https://png.pngtree.com/png-clipart/20221019/original/pngtree-instagram-icon-png-image_8704817.png"
+                    alt="social" class="social">Instagram</a>
+            <a href=""><img
+                    src="https://static.vecteezy.com/system/resources/thumbnails/016/716/450/small/tiktok-icon-free-png.png"
+                    alt="social" class="social">TikTok</a>
+            <a href=""><img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/3840px-Spotify_logo_without_text.svg.png"
+                    alt="social" class="social">SpotiFy</a>
+        </ul>
+
+    </div>
+
+    <main>
+        <h1>Oque michael ira fazer em cada dia em sua eleição</h1>
+        <div class="dias">
+            <h1 class="h1">1</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">2</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">3</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">4</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">5</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">6</h1>
+            <h4>Spotify gratis</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">7</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">8</h1>
+            <h4>passagem de avia para chique chique bahia</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">9</h1>
+            <h4>samba coletivo em chique chique bahia</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">10</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">11</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">12</h1>
+            <h4>ajudar os necessitados</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">13</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">14</h1>
+            <h4>pc gamer preço menor</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">15</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">16</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">17</h1>
+            <h4>investir em copiadores de memoria pra você nunca esquecer o raciocinio do seu codigo ou musica</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">18</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">19</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">20</h1>
+            <h4>remix de todos seus albuns</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">21</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">22</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">23</h1>
+            <h4>doar instrumentos de musica</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">24</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">25</h1>
+            <h4>ajudar a reflorestar a floresta amazonica</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">26</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">27</h1>
+            <h4>fazer um churras coletivo no sul</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">28</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">29</h1>
+
+        </div>
+        <div class="dias">
+            <h1 class="h1">30</h1>
+            <h4>BYD de graça pra todo mundo por causa da musica P.Y.T</h4>
+        </div>
+        <div class="dias">
+            <h1 class="h1">31</h1>
+
+        </div>
+
+
+    </main>
+
+    <footer>
+
+
+    </footer>
+</body>
+</html>
