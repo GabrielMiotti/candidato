@@ -1,0 +1,77 @@
+*{
+    background-color: rgb(223, 152, 60);
+}
+body{
+    background:
+    radial-gradient(circle at center,
+    #444 0%,
+    #111 40%,
+    #000 100%);
+}
+.conteiner{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    border-color: yellow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.album{
+    height: 100px;
+    transition: 300ms;
+}
+.album:hover{
+    height: 120px;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+}
+a,li, ul{
+    color: white;
+    background-color: black;
+}
+.a{
+    margin: 50px;
+    transition: 100ms;
+    font-family: Impact, sans-serif;
+}
+.a:hover{
+    color: yellow;
+    font-size: 20px;
+}
+.audio-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    padding: 30px;
+    border-radius: 20px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 30px gold;
+}
+
+audio{
+    width: 100%;
+}
+.jingle h5{
+    margin-top: 250px;
+    color: white;
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow:
+        0 0 10px gold,
+        0 0 20px gold;
+    animation: cantar 2s infinite;
+}
